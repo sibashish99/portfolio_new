@@ -9,7 +9,7 @@
 body {
   font-family: "Quicksand", Arial, sans-serif;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 15px ;
   line-height: 1.8;
   color: rgba(0, 0, 0, 0.7); }
   @media screen and (max-width: 992px) {
@@ -42,7 +42,7 @@ a {
     text-decoration: none !important; }
 
 p {
-  margin-bottom: 1.5em;
+  margin-bottom: 1.6em;
     color: black;
     font-family: 'Montserrat', sans-serif;
 }
